@@ -1,2 +1,2 @@
-# bheeshma
+# bhishma
 Molecular dynamics
